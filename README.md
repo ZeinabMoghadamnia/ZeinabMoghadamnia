@@ -1,8 +1,4 @@
-<div style="text-align:center;">
-
-# 👋 Hi, I’m Zeinab Moghadamnia
-
-</div>
+<h1 align="center">👋 Hi, I’m Zeinab Moghadamnia</h1>
 
 <!---
 ZeinabMoghadamnia/ZeinabMoghadamnia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
