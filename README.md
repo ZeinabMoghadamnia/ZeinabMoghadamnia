@@ -4,6 +4,8 @@
         <img align="Center"  src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
     </picture>
 </div>
+<br>
+<br>
 <div align="Center">
 <h2 align="center"> 🛠 Skills </h2>
         
@@ -26,7 +28,8 @@
 <!---![pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)--->
 <!--- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) --->
 </div>
-
+<br>
+<br>
 <div align="Center">
 <h2 align="center"> 📊 Github Status</h2>
 
