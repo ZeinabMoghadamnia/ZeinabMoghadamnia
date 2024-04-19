@@ -1,9 +1,13 @@
 <h1 align="center">👋 Hi, I’m Zeinab Moghadamnia</h1>
 <div align="Center">
-    <h3 align="center">Aspiring Python Django Developer</h3>
+    <h3 align="center">🌱Aspiring Python Django Developer🌱</h3>
     <picture align="Center">
         <img align="Center"  src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
     </picture>
+    <h3 align="center">About Me</h3>
+    <p align="center">
+        I'm Zeinab, a passionate individual diving headfirst into the world of Python development with a particular focus on Django. I thrive on challenges and am constantly seeking out opportunities to expand my skill set and deepen my understanding of various aspects of programming. I approach each learning opportunity, whether it's through tackling complex problems or immersing myself in new concepts, with enthusiasm. I firmly believe that collaboration and continuous learning are the cornerstone of success in this ever-evolving field.🎠
+    </p>
 </div>
 <br>
 <br>
