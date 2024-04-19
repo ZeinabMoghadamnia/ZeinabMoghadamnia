@@ -4,7 +4,7 @@
         <img align="Center"  src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
     </picture>
 </div>
-<div style="text-align: left;width: 49%">
+<div align="Center">
 <h2 align="center"> 🛠 Skills </h2>
         
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -27,14 +27,14 @@
 <!--- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) --->
 </div>
 
-<div align="Center"">
+<div align="Center">
 <h2 align="center"> 📊 Github Status</h2>
 
-![ZeinabMoghadamnia's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeinabMoghadamnia&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+![ZeinabMoghadamnia's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZeinabMoghadamnia&theme=dracula&hide_border=true)
 
 ![ZeinabMoghadamnia's Stats](https://github-readme-stats.vercel.app/api?username=ZeinabMoghadamnia&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
-![ZeinabMoghadamnia's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZeinabMoghadamnia&theme=dracula&hide_border=true)
+![ZeinabMoghadamnia's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeinabMoghadamnia&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 </div>
 
