@@ -6,8 +6,8 @@
     </picture>
     <h3 align="center">About Me</h3>
     <p align="center">
-        I'm Zeinab, a passionate individual diving headfirst into the world of Python development with a particular focus on Django. I thrive on challenges and am constantly seeking out opportunities to expand my skill set and deepen my understanding of various aspects of programming. I approach each learning opportunity, whether it's through tackling complex problems or immersing myself in new concepts, with enthusiasm. I firmly believe that collaboration and continuous learning are the cornerstone of success in this ever-evolving field.
-    </p><h1>🎠</h1>
+        I'm Zeinab, a passionate individual diving headfirst into the world of Python development with a particular focus on Django. I thrive on challenges and am constantly seeking out opportunities to expand my skill set and deepen my understanding of various aspects of programming. I approach each learning opportunity, whether it's through tackling complex problems or immersing myself in new concepts, with enthusiasm. I firmly believe that collaboration and continuous learning are the cornerstone of success in this ever-evolving field.🎠
+    </p>
 </div>
 <br>
 <br>
