@@ -27,7 +27,7 @@
 <!--- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) --->
 </div>
 
-<div style="text-align: left;width: 49%">
+<div align="Center"">
 <h2 align="center"> 📊 Github Status</h2>
 
 ![ZeinabMoghadamnia's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeinabMoghadamnia&theme=dracula&show_icons=true&hide_border=true&layout=compact)
